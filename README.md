@@ -91,6 +91,7 @@ The input data is stored in registers and supplied to the ALU. Based on the cont
 
 ## Circuit image
 <img width="500" alt="Circuit image" src="https://github.com/user-attachments/assets/c426292c-3c32-4826-859c-3d22bbf49b99" />
+
 ## 🔧 Components Used
 
 The ALU was constructed using various digital electronics components
