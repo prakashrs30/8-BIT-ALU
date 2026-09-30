@@ -89,6 +89,8 @@ The basic data flow of the ALU can be represented as:
 
 The input data is stored in registers and supplied to the ALU. Based on the control signals, the required arithmetic is selected. The resulting 8-bit data is then available at the output.
 
+## Circuit image
+<img width="500" alt="Circuit image" src="https://github.com/user-attachments/assets/c426292c-3c32-4826-859c-3d22bbf49b99" />
 ## 🔧 Components Used
 
 The ALU was constructed using various digital electronics components
